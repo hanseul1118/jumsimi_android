@@ -8,9 +8,9 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Toast;
 
-public class MainActivity extends AppCompatActivity {
+public class    MainActivity extends AppCompatActivity {
 
-    private static final String URL = "https://www.naver.com";
+    private static final String URL = "https://jumsimiowner.pickapick.io";
 
     private WebView mWebView;
     private WebSettings mWebSettings;
